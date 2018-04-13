@@ -1,0 +1,1 @@
+Pour implémententer la base de données avec les tables, le jeu d'essai, les triggers et les fonctions il suffit d'executer le script intereurope_base.sql qui inclu les autres fichiers dans le bon ordre.
